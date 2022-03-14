@@ -1,4 +1,4 @@
-<img src="climate-logo.svg" alt="Alt-Text"/>
+<img src="/assets/images/climate-logo.svg" alt="logo image"/>
 
 # IN 50 KLEINEN SCHRITTEN ZUR KLIMANEUTRALITÄT
 ## VON BIANKA ZIEBA, LEON BABIC UND KIAN GANZ
