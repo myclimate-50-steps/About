@@ -1,10 +1,10 @@
 <img src="/assets/images/climate-logo.svg" alt="logo image"/>
 
-# IN 50 KLEINEN SCHRITTEN ZUR KLIMANEUTRALITÄT
-## VON BIANKA ZIEBA, LEON BABIC, KIAN GANZ UND MIKKA WIDMER
+# In 50 kleinen Schritten zur Klimaneutralität
+## Von Bianka Zieba, Kian Ganz, Mikka Widmer, Leon Babic und Klodiana Xhellovci
 
 
-### BESCHREIBUNG
+### Beschreibung
 
 Man sagt oft, dass wir alle weniger CO2 verbrauchen sollen. Alle sprechen meistens über grossen und drastischen Veränderungen.
 
